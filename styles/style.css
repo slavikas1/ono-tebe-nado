@@ -32,13 +32,15 @@
   max-height: 105px;
 }
 
+.address {
+align-self: center;
+font-style: normal;
+line-height: 135%;
+max-width: 240px;
+font-size: 18px;
+}
+
 .header__address {
-  font-size: 18px;
-  font-weight: 400;
-  font-style: normal;
-  max-width: 240px;
-  line-height: 135%;
-  align-content: center;
   justify-self: end;
 }
 
@@ -257,11 +259,6 @@ justify-content: center;
 }
 
 .footer__address {
-  font-size: 18px;
-  font-style: normal;
-  max-width: 240px;
-  line-height: 135%;
-  align-content: center;
   justify-self: start;
 }
 
